@@ -2,3 +2,6 @@ Datos:
 
 npx cypress run --record --key aa4c7b9e-604e-46e1-9c11-dfc06d43f8db
 npx cypress run --record
+
+
+PassGit: Octubre1990*
